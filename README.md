@@ -2,17 +2,18 @@
 
 The Bank Management System is a simple yet powerful application that provides essential banking functionalities such as account management, deposits, withdrawals, transfers, and transaction history. It aims to streamline banking operations with an intuitive and secure interface for  users.
 
-            
 
-Sign Up:![main](https://github.com/user-attachments/assets/71830581-a3c5-4773-9fcf-f4671f1a707a)
+![main](https://github.com/user-attachments/assets/36972649-a5c1-4966-a51b-8006a4e11cb3)
 
+Sign Up:
         The Sign Up feature enables new users to create an account in the banking system. This process is designed to be user-friendly and secure,             ensuring that only legitimate users can access banking services.
         User-Friendly Form: The sign-up form collects essential information, such as name, email, password, and account type.
         Email Verification: Users receive a verification email to confirm their identity before activating their account.
        Secure Storage: All user credentials are securely hashed and stored to protect sensitive data.
 
-       ![Sig-up](./imgae/singuo.PNG)
+      
 
+![singuo](https://github.com/user-attachments/assets/5e764f5b-2f26-4257-8537-7b9f063a4889)
 
 
 Sign-In:
@@ -21,7 +22,8 @@ Sign-In:
         Error Handling: In case of incorrect credentials, users are notified with clear error messages.
         Session Management: The system maintains secure user sessions to prevent unauthorized access.
 
-         ![Sign-In](./imgae/signin.PNG)
+
+![signin](https://github.com/user-attachments/assets/e27822d6-88a2-4096-afce-0018d66b1628)
 
 Balance Inquiry:
     The Balance Inquiry feature allows users to quickly check their current account balance. This essential functionality ensures that users can            monitor   heir finances and make informed decisions about transactions.
@@ -29,7 +31,10 @@ Balance Inquiry:
     Real-Time Data: The system fetches the latest balance information directly from the database, ensuring accuracy.
     Secure: Only authorized users with valid login credentials can view the balance details.
 
-             ![Balance Inquiry](./imgae/be.PNG)
+            
+
+
+![be](https://github.com/user-attachments/assets/b63096d7-c0e9-459d-a680-4872f3e01572)
 
 
    Deposit:
@@ -37,8 +42,9 @@ Balance Inquiry:
            User-Friendly: The deposit process is straightforward, with a simple form that requires the account number and deposit amount.
             Secure Transactions: All deposit actions are logged, ensuring transparency and security.
 
-                             ![Deposit](./imgae/dep.PNG)
+                             
 
+![dep](https://github.com/user-attachments/assets/9024844c-7d6f-4826-adcf-e2bab1ff6934)
 
 
 Withdraw:
@@ -48,7 +54,8 @@ Withdraw:
         Withdrawal Limits: The system enforces withdrawal limits to prevent users from exceeding their account balances.
         Real-Time Update: Once the deposit is confirmed, the account balance is updated instantly in the system.
 
-                ![Withdraw](./imgae/wit.PNG)
+                
+![wit](https://github.com/user-attachments/assets/22d71528-4997-415f-bdd6-d801c772e7d8)
 
 
 
@@ -58,5 +65,6 @@ Mini Statement:
         Date and Amount Display: Each transaction includes the date and amount, making it easy to understand account changes at a glance.
         User-Friendly Interface: The mini statement is displayed in a clear and organized manner, ensuring easy readability.
 
-                        ![Mini Statement](./imgae/minis.PNG)
+                       
+![minis](https://github.com/user-attachments/assets/fc908884-9928-43c9-8e00-5c3aced3ccc6)
 
