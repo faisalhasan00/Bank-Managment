@@ -2,9 +2,10 @@
 
 The Bank Management System is a simple yet powerful application that provides essential banking functionalities such as account management, deposits, withdrawals, transfers, and transaction history. It aims to streamline banking operations with an intuitive and secure interface for  users.
 
-                 ![Menu](./imgae/main.PNG)
+            
 
-Sign Up:
+Sign Up:![main](https://github.com/user-attachments/assets/71830581-a3c5-4773-9fcf-f4671f1a707a)
+
         The Sign Up feature enables new users to create an account in the banking system. This process is designed to be user-friendly and secure,             ensuring that only legitimate users can access banking services.
         User-Friendly Form: The sign-up form collects essential information, such as name, email, password, and account type.
         Email Verification: Users receive a verification email to confirm their identity before activating their account.
